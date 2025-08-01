@@ -1,8 +1,8 @@
-# Space Invaders
+# Space Invaders clone/test
 
 A classic arcade shooter clone game built with HTML5 Canvas and JavaScript, mainly for learning and testing.
 
-![Space Invaders Screenshot](https://via.placeholder.com/800x500/0c1445/ffffff?text=Space+Invaders)
+![Space Invaders Screenshot](space.png)
 
 ## 🎮 Game Features
 
